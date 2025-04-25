@@ -54,7 +54,7 @@
   <main>
     <p>Hi Everyone!</p><br>
     <p>Jai Maa Saraswati</p>
-    <img src="/testaadi-webapp/src/main/images/Maa-Saraswati-puja-by-students.jpg" alt="Jai Maa Saraswati">
+    <img src="images/Maa-Saraswati-puja-by-students.jpg" alt="Jai Maa Saraswati">
   </main>
   <footer>
     &copy; 2025 Aditya. All rights reserved.
